@@ -1,0 +1,5 @@
+[project]
+name = "auto-md"
+version = "0.1.0"
+description = "Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files"
+requires-python = ">=3.10"

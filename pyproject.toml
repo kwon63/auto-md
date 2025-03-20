@@ -5,3 +5,4 @@ description = "Convert Files /  Folders / GitHub Repos Into AI / LLM-ready Files
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# drop an unused branch
